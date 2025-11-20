@@ -1,5 +1,7 @@
 # RedM Stream Deck Profile - RanchRP
 
+<img width="452" height="236" alt="image" src="https://github.com/user-attachments/assets/902a08cf-2973-4f1c-b556-48c03a2715e1" />
+
 A Stream Deck profile designed for RanchRP in RedM to enhanced streaming experiences and productivity.
 
 ## Prerequisites
